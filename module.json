@@ -1,6 +1,6 @@
 {
-  "id": "shadowdark-art-template",
-  "title": "Shadowdark - Art Replacement",
+  "id": "shadowdark-art-template-main",
+  "title": "Shadowdark - Liquid & Future's Art Replacement",
   "description": "Module that adds additional artwork pack to the token image replacer implemted in Shadowdark RPG for Foundry VTT.",
   "authors": [
     {
@@ -23,8 +23,8 @@
     }]
   },
   "flags": {
-    "shadowdark-art-template": {
-      "shadowdark-art": "modules/shadowdark-art-template/mappings/map-template.json"
+    "shadowdark-art-template-main": {
+      "shadowdark-art": "modules/shadowdark-art-template-main/mappings/map-template.json"
     }
   }
 }
